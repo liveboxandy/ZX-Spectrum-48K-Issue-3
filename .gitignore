@@ -29,3 +29,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+Pictures/
+Zips/
+ZX Spectrum 48K Issue 3 No Heatsink
+ZX Spectrum 48K Issue 3 With Heatsink
